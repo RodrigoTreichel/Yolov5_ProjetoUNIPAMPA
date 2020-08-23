@@ -1,0 +1,5 @@
+train: /content/yolov5/train/images
+val: /content/yolov5/valid/images
+
+nc: 2
+names: ['outdoor', 'propaganda']
