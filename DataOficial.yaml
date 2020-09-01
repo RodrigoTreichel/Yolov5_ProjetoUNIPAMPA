@@ -1,5 +1,5 @@
-train: /content/yolov5/train/images
-val: /content/yolov5/valid/images
+train: /content/Yolov5_ProjetoUNIPAMPA/train/images
+val: /content/Yolov5_ProjetoUNIPAMPA/valid/images
 
 nc: 2
 names: ['outdoor', 'propaganda']
